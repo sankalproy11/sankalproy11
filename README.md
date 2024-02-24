@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 **I’m currently working on:** <br>Making ERPs for various small firms<br><br>👯 **I’m looking to collaborate on:** <br>Fullstack MERN projects<br><br>🌱 **I’m currently learning:** <br>AWS and Cloudflare Services<br><br>💬 **Well Versed In:** <br>JavaScript, React, Nextjs, Node.js, Express.js<br><br>⚡ **Fun fact:** <br>I love food.
+🔭 **I’m currently working on:** <br>Making ERPs for various firms<br><br>👯 **I’m looking to collaborate on:** <br>Fullstack MERN projects<br><br>🌱 **I’m currently learning:** <br>AWS and Cloudflare Services<br><br>💬 **Well Versed In:** <br>JavaScript, React, Nextjs, Node.js, Express.js<br><br>⚡ **Fun fact:** <br>I love food.
 
 ## 🌐 Socials:
 
